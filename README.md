@@ -1,6 +1,3 @@
-# xinchengtv
-科技星球APP
-
 # XinCheng PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -49,9 +46,9 @@
     
     chmod -R 777 storage
 
-    JWT_SECRET
+     JWT_SECRET
      
-    php artisan jwt:secret
+        php artisan jwt:secret
 
 ## 命名规则
 <p>1.类的命名规则</p>
